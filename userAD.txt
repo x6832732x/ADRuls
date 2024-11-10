@@ -391,5 +391,5 @@ sina.cn*/impress?
 ##[src="https://2.999km.net"]
 ##[href="http://www.360doc.cn/khd.aspx"]
 ##img[src*="tui.
-##div[class="palette-button-adcard pop-ad"]
+##div[class="adcard-content"]
 ##i_cecream > div.bili-feed4:last-child > div.palette-button-outer.palette-feed4:last-child > div.palette-button-inner > div.palette-button-wrap > div.adcard-content:first-child > div:nth-child(2)
